@@ -1,1 +1,1 @@
-# EdgeDetectionApp
+# MyAndroidApp
